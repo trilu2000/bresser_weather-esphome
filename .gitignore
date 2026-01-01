@@ -12,7 +12,6 @@ secrets.yaml
 
 # User-specific configs
 bresser_weather.yaml
-local_development.yaml
 
 # IDE
 .vscode/
