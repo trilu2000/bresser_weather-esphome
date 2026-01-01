@@ -59,24 +59,24 @@ web_server:
 # Bresser Weather Sensor Component
 bresser_weather:
   temperature:
-    name: "${friendly_name} Temperature"
+    name: "Temperature"
   humidity:
-    name: "${friendly_name} Humidity"
+    name: "Humidity"
   wind_gust:
-    name: "${friendly_name} Wind Gust"
+    name: "Wind Gust"
   wind_speed:
-    name: "${friendly_name} Wind Speed"
+    name: "Wind Speed"
   wind_direction:
-    name: "${friendly_name} Wind Direction"
+    name: "Wind Direction"
   rain:
-    name: "${friendly_name} Rain"
+    name: "Rain"
   uv:
-    name: "${friendly_name} UV Index"
+    name: "UV Index"
   light:
-    name: "${friendly_name} Light"
+    name: "Light"
   rssi:
-    name: "${friendly_name} RSSI"
+    name: "RSSI"
   battery_ok:
-    name: "${friendly_name} Battery OK"
+    name: "Battery OK"
   sensor_id:
-    name: "${friendly_name} Sensor ID"
+    name: "Sensor ID"
